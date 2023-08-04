@@ -40,22 +40,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshishRam7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="right">
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish"/>
- </a>
- <a href="mailto:jaashishram7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ashish" />
- </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ashish" />
- </a> 
- <a href="https://www.hackerrank.com/jaashishram7?hr_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ashish"  />
-  </a> 
-</p>
-<br />
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -72,5 +56,7 @@
  <a href="https://www.hackerrank.com/jaashishram7?hr_r=1" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ashish"  />
   </a> 
+</p>
+<br />
 </p>
 <br />
