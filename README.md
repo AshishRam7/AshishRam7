@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AshishRam7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshishRam7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -42,7 +42,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="right">
  <a href="https://linkedin.com/in/saifalsiam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish"/>
  </a>
