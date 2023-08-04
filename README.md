@@ -18,13 +18,13 @@
 <p align="center">
 <a href="https://github.com/M-Manas-s">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-Manas-s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Manas-s&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Ashish Ram-s&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-ram-j-a-/"><img src="https://img.shields.io/badge/-Manas%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:manastiwari111222@gmail.com"><img src="https://img.shields.io/badge/-manastiwari111222@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ashish-ram-j-a-/"><img src="https://img.shields.io/badge/-Ashish%20Ram-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jaashishram7@gmail.com"><img src="https://img.shields.io/badge/-jaashishram7@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
