@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="centre">
+<p align-content:"stretch">
 <p align="left">
 <a href="https://github.com/AshishRam7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshishRam7&layout=compact&langs_count=8&theme=algolia"/>
