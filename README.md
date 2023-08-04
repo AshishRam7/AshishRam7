@@ -44,17 +44,17 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="right">
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
+ <a href="https://linkedin.com/in/ashish-ram-j-a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish"/>
  </a>
  <a href="mailto:jaashishram7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ashish" />
+  <img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=mail&logoColor=white" alt="ashish" />
  </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
+ <a href="https://instagram.com/_ashish.ram_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ashish" />
  </a> 
  <a href="https://www.hackerrank.com/jaashishram7?hr_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ashish"  />
+  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="ashish"  />
   </a> 
 </p>
 <br />
