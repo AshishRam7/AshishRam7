@@ -34,12 +34,23 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align-content:"stretch">
-<p align="left">
-<a href="https://github.com/AshishRam7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshishRam7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<table border="0">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/>
+</td>
+
+<td width="50%" align="center">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AadiNir&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
