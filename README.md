@@ -34,20 +34,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
 <table border="0">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/> 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishRam7&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshishRam7&theme=rose_pine" width="45%" alt="stats graph"/>
 </td>
 
 <td width="50%" align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=dark&hide_border=true" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AadiNir&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRam7&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AshishRam7&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
@@ -58,14 +52,14 @@
  <a href="https://linkedin.com/in/ashish-ram-j-a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish"/>
  </a>
- <a href="mailto:jaashishram7@gmail.com" target="_blank">
+ <a href="mailto:ashishram.ja15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=mail&logoColor=white" alt="ashish" />
  </a>
  <a href="https://instagram.com/_ashish.ram_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ashish" />
  </a> 
- <a href="https://www.hackerrank.com/jaashishram7?hr_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="ashish"  />
+ <a href="https://leetcode.com/u/jaashishram7/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-20BEFF?&style=for-the-badge&logo=Leetcode&logoColor=white" alt="ashish"  />
   </a> 
 </p>
 <br />
