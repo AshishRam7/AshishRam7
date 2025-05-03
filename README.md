@@ -3,11 +3,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to learn and explore new technologies. My passion is to think of ways to solve modern technological problems.\
-🎓 &nbsp;I'm currently pursuing my 3rd year of Computer Science Engineering at Vellore Institue of Technology, Chennai.\
+🎓 &nbsp;I'm currently in my final year of Computer Science Engineering at Vellore Institue of Technology, Chennai.\
 🌱 &nbsp;I'm on track for learning more about Javascript-based frameworks, API's and cloud computing.\
 ✍️ &nbsp;In my leisure time, I play a sport or ride my bike.\
-✉️ &nbsp;Hit me up on my email at jaashishram7@gmail.com! or DM me on <a href="https://www.linkedin.com/in/ashish-ram-j-a-/">LinkedIn</a> , I'll try to respond as soon as I can.\
-📄 &nbsp;Take a look at my [Résumé](https://drive.google.com/file/d/1Ry9EpK3LtmPW7ikOgVRv9APYoyTvCsQ4/view) to know more about me and my interests. I'm open to feedback, suggestions and collaborations!
+✉️ &nbsp;Hit me up on my email at ashishram.ja15@gmail.com! or DM me on <a href="https://www.linkedin.com/in/ashish-ram-j-a-/">LinkedIn</a> , I'll try to respond as soon as I can.\
+📄 &nbsp; This is my minimalistic portfolio website: https://ashish-portfolio-website-ten.vercel.app/
+📄 &nbsp;Take a look at my [Résumé]([https://drive.google.com/file/d/1Ry9EpK3LtmPW7ikOgVRv9APYoyTvCsQ4/view](https://drive.google.com/file/d/1hnbstXoVCCy2EVNfW1qQCyEWiiY_0EwX/view?usp=sharing)) to know more about me and my interests. I'm open to feedback, suggestions and collaborations!
 
 ### 🧰 Languages and Tools
 
