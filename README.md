@@ -1,68 +1,59 @@
-## Hey there👋, I'm Ashish
+## Hey there, I'm Ashish Ram J A
 
-### 👨🏻‍💻 &nbsp;About Me
+### About Me
 
-💡 &nbsp;I like to learn and explore new technologies. My passion is to think of ways to solve modern technological problems.\
-🎓 &nbsp;I'm currently in my final year of Computer Science Engineering at Vellore Institue of Technology, Chennai.\
-🌱 &nbsp;I'm on track for learning more about Javascript-based frameworks, API's and cloud computing.\
-✍️ &nbsp;In my leisure time, I play a sport or ride my bike.\
-✉️ &nbsp;Hit me up on my email at ashishram.ja15@gmail.com! or DM me on <a href="https://www.linkedin.com/in/ashish-ram-j-a-/">LinkedIn</a> , I'll try to respond as soon as I can.\
-📄 &nbsp; This is my minimalistic portfolio website: https://ashish-portfolio-website-ten.vercel.app/
-📄 &nbsp;Take a look at my [Résumé]([https://drive.google.com/file/d/1Ry9EpK3LtmPW7ikOgVRv9APYoyTvCsQ4/view](https://drive.google.com/file/d/1hnbstXoVCCy2EVNfW1qQCyEWiiY_0EwX/view?usp=sharing)) to know more about me and my interests. I'm open to feedback, suggestions and collaborations!
+I am a final-year Computer Science Engineering student at Vellore Institute of Technology, Chennai, driven by a passion for exploring and mastering new technologies. I enjoy solving modern technological challenges, particularly using JavaScript frameworks, APIs, and cloud services. In my free time, I play sports or go biking.
 
-### 🧰 Languages and Tools
+- **Education**: B.Tech in Computer Science Engineering, VIT Chennai (Class of 2025)
+- **Interests**: JavaScript frameworks, RESTful APIs, Cloud Computing, Full‑stack Development
+- **Hobbies**: Football, Cricket, Badminton, Bike Riding
+- **Contact**: [ashishram.ja15@gmail.com](mailto:ashishram.ja15@gmail.com) · [LinkedIn Profile](https://www.linkedin.com/in/ashish-ram-j-a-/)
+ B.Tech in Computer Science Engineering, VIT Chennai (Class of 2025)
+- **Interests**: Web development, Full‑stack JavaScript, Cloud Computing, IoT
+- **Contact**: ashishram.ja15@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashish-ram-j-a-)
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+---
 
-#
+### Languages & Tools
 
+<div align="left">
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
-<table border="0">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishRam7&theme=rose_pine" width="45%" alt="stats graph"/> 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshishRam7&theme=rose_pine" width="45%" alt="stats graph"/>
-</td>
+### GitHub Analytics
 
-<td width="50%" align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRam7&theme=dark&hide_border=true" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AshishRam7&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</td>
-</tr>
-</table>
+<p float="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishRam7&theme=rose_pine" width="45%" alt="languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishRam7&show_icons=true&include_all_commits=true&theme=dark" width="45%" alt="stats" />  
+</p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### Quick Links
+
+- **Portfolio**: https://ashish-portfolio-website-ten.vercel.app/
+- **Résumé**: [View PDF](https://drive.google.com/file/d/1hnbstXoVCCy2EVNfW1qQCyEWiiY_0EwX/view?usp=sharing)
+- **LeetCode**: https://leetcode.com/u/jaashishram7/
+
+---
+
+### Connect
 
 <p align="left">
- <a href="https://linkedin.com/in/ashish-ram-j-a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish"/>
- </a>
- <a href="mailto:ashishram.ja15@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=mail&logoColor=white" alt="ashish" />
- </a>
- <a href="https://instagram.com/_ashish.ram_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ashish" />
- </a> 
- <a href="https://leetcode.com/u/jaashishram7/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-20BEFF?&style=for-the-badge&logo=Leetcode&logoColor=white" alt="ashish"  />
-  </a> 
+  <a href="https://linkedin.com/in/ashish-ram-j-a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ashishram.ja15@gmail.com" target="blank"><img src="https://img.shields.io/badge/Mail-0A0A0A?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/_ashish.ram_" target="blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/AshishRam7" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-<br />
-</p>
-<br />
